@@ -1,55 +1,7 @@
-{
-code: 200,
-data: [
-{
-id: 1,
-url: "http://69app1.com",
-state: 1
-},
-{
-id: 1,
-url: "http://69app2.com",
-state: 1
-},
-{
-id: 1,
-url: "http://69app3.com",
-state: 1
-},
-{
-id: 1,
-url: "http://69app4.com",
-state: 1
-},
-{
-id: 1,
-url: "http://69app5.com",
-state: 1
-},
-{
-id: 1,
-url: "http://www.69app1.com",
-state: 1
-},
-{
-id: 1,
-url: "http://www.69app2.com",
-state: 1
-},
-{
-id: 1,
-url: "http://www.69app3.com",
-state: 1
-},
-{
-id: 1,
-url: "http://www.69app4.com",
-state: 1
-},
-{
-id: 1,
-url: "http://www.69app5.com",
-state: 1
-}
-]
+{"code":200,"data":[
+	{"id":1,"url":"http:\/\/hhs1.app","state":1},
+	{"id":1,"url":"http:\/\/hhs2.app","state":1},
+	{"id":1,"url":"http:\/\/hhs3.app","state":1},
+	{"id":1,"url":"http:\/\/hhs4.app","state":1},
+	]
 }
